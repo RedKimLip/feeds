@@ -4,9 +4,17 @@
         <title>Notice</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Aug 2021 05:36:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Aug 2021 17:43:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이달의 소녀] 여름 그리고 이달의 소녀]]></title>
+            <link>https://vlive.tv/post/1-24507746</link>
+            <guid>https://vlive.tv/post/1-24507746</guid>
+            <pubDate>Thu, 05 Aug 2021 17:43:29 GMT</pubDate>
+            <content:encoded><![CDATA[Staff_이달의 소녀(LOONA)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210803_45/1627956010041BmAVx_JPEG/image.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이달의 소녀] 조아하디랑 좋은밤💚]]></title>
             <link>https://vlive.tv/post/1-24222359</link>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-24222334</guid>
             <pubDate>Wed, 04 Aug 2021 22:10:11 GMT</pubDate>
             <content:encoded><![CDATA[Staff_이달의 소녀(LOONA)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210720_99/16267661728706SGdT_JPEG/image.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이달의 소녀] 오빛이 희진이를 부르잖아♡]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[이달의 소녀 (LOONA) [&] Concept  Photo "Go Won"]]></title>
             <link>https://vlive.tv/post/0-23624472</link>
             <guid>https://vlive.tv/post/0-23624472</guid>
-            <pubDate>Wed, 04 Aug 2021 22:10:11 GMT</pubDate>
-            <content:encoded><![CDATA[Staff_이달의 소녀(LOONA)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이달의 소녀 (LOONA) [&] Concept  Photo "Chuu"]]></title>
-            <link>https://vlive.tv/post/1-23601113</link>
-            <guid>https://vlive.tv/post/1-23601113</guid>
             <pubDate>Wed, 04 Aug 2021 22:10:11 GMT</pubDate>
             <content:encoded><![CDATA[Staff_이달의 소녀(LOONA)]]></content:encoded>
         </item>
