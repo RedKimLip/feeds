@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Aug 2021 05:36:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Aug 2021 17:43:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[LOONA] DJ Jo. DJ HaSeul. DJ Birthday💚 (Star Board)]]></title>
+            <link>https://vlive.tv/post/0-24823151</link>
+            <guid>https://vlive.tv/post/0-24823151</guid>
+            <pubDate>Wed, 18 Aug 2021 17:43:06 GMT</pubDate>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210817_147/1629191860506zAM5n_JPEG/upload_732714690328756604f8e7d9e-a002-4c37-b034-3b7935e1d873.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이달의 소녀] "PTT (Paint The Town)" Dance Practice Video (Star Board)]]></title>
             <link>https://vlive.tv/post/1-24391510</link>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/0-24222068</guid>
             <pubDate>Wed, 04 Aug 2021 22:10:16 GMT</pubDate>
             <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210720_292/1626786003249oBYD9_JPEG/1395743742395846555d3a798d-5981-44c5-b5b8-57e4498fc37a.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Go Won was a particularly introverted kid.. (Star Board)]]></title>
@@ -144,11 +151,12 @@
             <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Hi💋 (Star Board)]]></title>
-            <link>https://vlive.tv/post/1-24156371</link>
-            <guid>https://vlive.tv/post/1-24156371</guid>
-            <pubDate>Wed, 04 Aug 2021 22:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
+            <title><![CDATA[[이달의 소녀] 조아하디 하슬이디 생일이디💚 (Notice)]]></title>
+            <link>https://vlive.tv/post/1-24848689</link>
+            <guid>https://vlive.tv/post/1-24848689</guid>
+            <pubDate>Wed, 18 Aug 2021 17:43:16 GMT</pubDate>
+            <content:encoded><![CDATA[Staff_이달의 소녀(LOONA)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210818_93/1629288867301y1rAM_JPEG/image.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이달의 소녀] 여름 그리고 이달의 소녀 (Notice)]]></title>
@@ -172,7 +180,6 @@
             <guid>https://vlive.tv/post/0-24217410</guid>
             <pubDate>Wed, 04 Aug 2021 22:10:11 GMT</pubDate>
             <content:encoded><![CDATA[Staff_이달의 소녀(LOONA)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210720_18/1626766225664ik1ME_JPEG/image.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이달의 소녀] 첫 삐서재📚 (Notice)]]></title>
@@ -283,13 +290,6 @@
             <title><![CDATA[이달의 소녀 (LOONA) [&] Concept  Photo "ViVi" (Notice)]]></title>
             <link>https://vlive.tv/post/0-23624483</link>
             <guid>https://vlive.tv/post/0-23624483</guid>
-            <pubDate>Wed, 04 Aug 2021 22:10:11 GMT</pubDate>
-            <content:encoded><![CDATA[Staff_이달의 소녀(LOONA)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이달의 소녀 (LOONA) [&] Concept  Photo "Go Won" (Notice)]]></title>
-            <link>https://vlive.tv/post/0-23624472</link>
-            <guid>https://vlive.tv/post/0-23624472</guid>
             <pubDate>Wed, 04 Aug 2021 22:10:11 GMT</pubDate>
             <content:encoded><![CDATA[Staff_이달의 소녀(LOONA)]]></content:encoded>
         </item>
