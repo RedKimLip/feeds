@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Aug 2021 05:36:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Aug 2021 05:36:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[LOONA] LOONA is 3-years old🎂 (Star Board)]]></title>
+            <link>https://vlive.tv/post/1-24866184</link>
+            <guid>https://vlive.tv/post/1-24866184</guid>
+            <pubDate>Fri, 20 Aug 2021 05:36:27 GMT</pubDate>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210819_36/16293710452023r5Jr_JPEG/142246645188415602b79916f8-1258-4b25-85f2-39d330e13240.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[LOONA] DJ Jo. DJ HaSeul. DJ Birthday💚 (Star Board)]]></title>
             <link>https://vlive.tv/post/0-24823151</link>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-24255459</guid>
             <pubDate>Wed, 04 Aug 2021 22:10:16 GMT</pubDate>
             <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210722_144/1626940819934G0WM6_JPEG/139816348861078929fb1a10c5-3ec2-4962-a5e9-96870fd3b8f7.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[A Good Night With DJ Ha💚 (Star Board)]]></title>
@@ -144,11 +151,12 @@
             <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[LOONA] "PTT (Paint The Town)" MV Making Film (Star Board)]]></title>
-            <link>https://vlive.tv/post/0-24148626</link>
-            <guid>https://vlive.tv/post/0-24148626</guid>
-            <pubDate>Wed, 04 Aug 2021 22:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
+            <title><![CDATA[[이달의 소녀] 3years with LOONA❤ (Notice)]]></title>
+            <link>https://vlive.tv/post/0-24863153</link>
+            <guid>https://vlive.tv/post/0-24863153</guid>
+            <pubDate>Fri, 20 Aug 2021 05:36:37 GMT</pubDate>
+            <content:encoded><![CDATA[Staff_이달의 소녀(LOONA)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210819_78/1629374887285USSKR_JPEG/image.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이달의 소녀] 조아하디 하슬이디 생일이디💚 (Notice)]]></title>
@@ -172,7 +180,6 @@
             <guid>https://vlive.tv/post/1-24222359</guid>
             <pubDate>Wed, 04 Aug 2021 22:10:11 GMT</pubDate>
             <content:encoded><![CDATA[Staff_이달의 소녀(LOONA)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210720_165/16267662942238toPJ_JPEG/image.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이달의 소녀] 고원이 왔어요🌼 (Notice)]]></title>
@@ -283,13 +290,6 @@
             <title><![CDATA[이달의 소녀 (LOONA) [&] Concept  Photo - YeoJin (Notice)]]></title>
             <link>https://vlive.tv/post/0-23639555</link>
             <guid>https://vlive.tv/post/0-23639555</guid>
-            <pubDate>Wed, 04 Aug 2021 22:10:11 GMT</pubDate>
-            <content:encoded><![CDATA[Staff_이달의 소녀(LOONA)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이달의 소녀 (LOONA) [&] Concept  Photo "ViVi" (Notice)]]></title>
-            <link>https://vlive.tv/post/0-23624483</link>
-            <guid>https://vlive.tv/post/0-23624483</guid>
             <pubDate>Wed, 04 Aug 2021 22:10:11 GMT</pubDate>
             <content:encoded><![CDATA[Staff_이달의 소녀(LOONA)]]></content:encoded>
         </item>
