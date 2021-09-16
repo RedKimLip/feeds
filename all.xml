@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Sep 2021 05:37:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 17:41:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -151,6 +151,14 @@
             <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[이달의 소녀] 츄는 퍼펙트, 치킨은 츄리플! (Notice)]]></title>
+            <link>https://vlive.tv/post/1-25434385</link>
+            <guid>https://vlive.tv/post/1-25434385</guid>
+            <pubDate>Thu, 16 Sep 2021 17:41:49 GMT</pubDate>
+            <content:encoded><![CDATA[Staff_이달의 소녀(LOONA)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210915_271/16316987074491Ab56_JPEG/image.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[이달의 소녀] 이달의 소녀의 궤도 속으로 초대할게! (Notice)]]></title>
             <link>https://vlive.tv/post/1-25237639</link>
             <guid>https://vlive.tv/post/1-25237639</guid>
@@ -172,7 +180,6 @@
             <guid>https://vlive.tv/post/1-24848689</guid>
             <pubDate>Wed, 18 Aug 2021 17:43:16 GMT</pubDate>
             <content:encoded><![CDATA[Staff_이달의 소녀(LOONA)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210818_93/1629288867301y1rAM_JPEG/image.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이달의 소녀] 여름 그리고 이달의 소녀 (Notice)]]></title>
@@ -283,13 +290,6 @@
             <title><![CDATA[이달의 소녀 (LOONA) [&] Concept Photo "LOONA" (Notice)]]></title>
             <link>https://vlive.tv/post/0-23677082</link>
             <guid>https://vlive.tv/post/0-23677082</guid>
-            <pubDate>Wed, 04 Aug 2021 22:10:11 GMT</pubDate>
-            <content:encoded><![CDATA[Staff_이달의 소녀(LOONA)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이달의 소녀 (LOONA) [&] Concept  Photo - Kim Lip (Notice)]]></title>
-            <link>https://vlive.tv/post/1-23643263</link>
-            <guid>https://vlive.tv/post/1-23643263</guid>
             <pubDate>Wed, 04 Aug 2021 22:10:11 GMT</pubDate>
             <content:encoded><![CDATA[Staff_이달의 소녀(LOONA)]]></content:encoded>
         </item>
